@@ -71,6 +71,15 @@ body {
 	background-color: #FDFDFD;
 }
 
+#contentportfolio {
+	width: 640px;
+	margin: 0 auto;
+	background-color: #FDFDFD;
+}
+
+
+
+
 #insidecontent {
 	float: left;
 	padding-left: 25px;
@@ -84,6 +93,13 @@ body {
     font-family: Tahoma;
     font-size: 1.2em;
     line-height: 170%;
+}
+
+#galleryinsidecontent {
+	padding-left: 25px;
+	padding-right: 25px;
+	width: auto;
+	background-color: #D8D8D8;
 }
 
 h1 {
@@ -131,3 +147,5 @@ height: 0px;
 	background-color: #3C3939;
 	color: white;
 }
+
+.gallery-image { width: 50px; }
